@@ -1,0 +1,2 @@
+﻿TrayPopup.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  TrayPopup.vcxproj -> C:\Users\Tmax\Downloads\shell\TrayPopup\.\Debug\TrayPopup.exe
